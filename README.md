@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Mame Libasse Laye Sylla 👋
 
-<!--
-**libsss01/libsss01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student working toward becoming a **Software Engineer**.
 
-Here are some ideas to get you started:
+Right now, I’m focused on building strong foundations in web development, backend development, databases, and software project structure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What interests me the most is not only writing code, but understanding how software is designed, structured, maintained, improved, and eventually deployed.
+
+## 🎯 Current Focus
+
+- Web development with HTML, CSS and JavaScript
+- Backend fundamentals with PHP and MySQL
+- SQL, SQL Server and database logic
+- Programming with Python and C++
+- Git and GitHub for version control
+- Building and improving real projects step by step
+
+## 🧰 Current Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
+
+Also working with: `SQL Server` `T-SQL`
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+## 📌 Projects
+
+### SenLogis
+
+A web project around housing and rental management.
+
+This project helps me practice application structure, code organization, and product-oriented thinking around a real-world use case.
+
+### Gestion Contact
+
+A PHP/MySQL contact management project focused on backend fundamentals.
+
+Main goals:
+- CRUD operations
+- Form handling
+- SQL queries
+- Database interaction
+- Basic backend structure
+
+### Private Client Website
+
+A responsive website built for a local business activity.
+
+The repository is kept private for privacy and client-related reasons.
+
+## 🚀 Direction
+
+My goal is to grow into a **Software Engineer** capable of building useful, clean and maintainable software.
+
+I'm especially interested in:
+
+- software product creation
+- backend development
+- application architecture
+- databases and systems
+- software engineering principles
+- artificial intelligence as a future learning direction
+
+I’m currently focused on mastering the fundamentals first, then gradually moving toward more advanced topics.
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/mame-libasse-laye-sylla-71827233a/
+- GitHub: https://github.com/libsss01
+- Mail : mamelibasselaye2025@gmail.com
