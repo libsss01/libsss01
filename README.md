@@ -9,10 +9,10 @@ What interests me the most is not only writing code, but understanding how softw
 ## 🎯 Current Focus
 
 - Web development with HTML, CSS and JavaScript
-- Backend fundamentals with PHP and MySQL
+- Backend fundamentals
 - SQL, SQL Server and database logic
 - Programming with Python and C++
-- Git and GitHub for version control
+- Git and GitHub
 - Building and improving real projects step by step
 
 ## 🧰 Current Stack
