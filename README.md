@@ -37,31 +37,6 @@ Also working with: `SQL Server` `T-SQL`
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-## 📌 Projects
-
-### SenLogis
-
-A web project around housing and rental management.
-
-This project helps me practice application structure, code organization, and product-oriented thinking around a real-world use case.
-
-### Gestion Contact
-
-A PHP/MySQL contact management project focused on backend fundamentals.
-
-Main goals:
-- CRUD operations
-- Form handling
-- SQL queries
-- Database interaction
-- Basic backend structure
-
-### Private Client Website
-
-A responsive website built for a local business activity.
-
-The repository is kept private for privacy and client-related reasons.
-
 ## 🚀 Direction
 
 My goal is to grow into a **Software Engineer** capable of building useful, clean and maintainable software.
